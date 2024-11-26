@@ -6,6 +6,10 @@ using UnityEngine.SceneManagement;
 public class Menu_Buttons : MonoBehaviour
 {
     //method to use to load Scene1
+    public void UI_Menu()
+    {
+        SceneManager.LoadScene("UI_Menu");
+    }
     public void LoadLab9_Terrain()
     {
         SceneManager.LoadScene("Lab9_Terrain");
