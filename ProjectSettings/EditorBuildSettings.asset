@@ -8,4 +8,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/UI Menu.unity
     guid: bfa6299554b626542afa89f8a68642d7
+  - enabled: 1
+    path: Assets/Scenes/CarTimer.unity
+    guid: da260256fccc96d4fad11dda8b0434b8
+  - enabled: 1
+    path: Assets/Scenes/Exercise11.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Lab9_Terrain.unity
+    guid: 8acb9f6158df1be409625ec084dbb1af
   m_configObjects: {}
